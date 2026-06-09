@@ -1,2 +1,5 @@
 **/.DS_Store
-/public/*
+
+# Generated site output
+/public/
+/website/public/
